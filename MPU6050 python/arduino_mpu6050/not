@@ -1,0 +1,8 @@
+self.widget1 = QWidget()
+        self.widget1.setGeometry(50, 50, 1200, 175)
+
+        self.widget2 = QWidget()
+        self.widget2.setGeometry(100, 100, 1200, 175)
+
+        self.widget3 = QWidget()
+        self.widget3.setGeometry(150, 150, 1200, 175)
